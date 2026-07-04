@@ -1,4 +1,25 @@
 # 🚀 SQL-50-LeetCode-Solutions
+# 🏅 LeetCode SQL 50 Achievement
+
+Successfully completed the **LeetCode SQL 50 Study Plan**, earning the official LeetCode SQL 50 Badge.
+
+<p align="center">
+  <img src="assets/sql50-badge.png" alt="LeetCode SQL 50 Badge" width="350">
+</p>
+
+This study plan strengthened my understanding of:
+
+- SQL Fundamentals
+- Joins
+- Aggregations
+- Window Functions
+- Common Table Expressions (CTEs)
+- Subqueries
+- CASE Statements
+- Ranking Functions
+- Database Problem Solving
+
+The solutions in this repository reflect my learning journey through all 50 curated SQL interview problems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-SQL%2050-orange?style=for-the-badge&logo=leetcode" />
